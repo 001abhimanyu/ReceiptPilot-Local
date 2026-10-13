@@ -1,6 +1,8 @@
 # 🧾 ReceiptPilot Local
 ### Private AI-Powered Invoice & Receipt Organizer
 
+![Reciptpilot]{Receiptpilot.png}
+
 ReceiptPilot Local is an AI-powered application that helps freelancers and small businesses organize invoices and receipts. It uses an open-weight AI model running locally through Ollama to extract important financial information, categorize expenses, and export records to CSV or JSON.
 
 The goal is to make bookkeeping easier, more affordable, and more privacy-friendly without depending on a hosted AI API.
